@@ -24,7 +24,7 @@ The writing is meant to be useful — to come back to during an outage, share wi
 
 | Repository | Description |
 |---|---|
-| [crump.net](https://github.com/CrumpNet/crump.net) | Source for the CrumpNet website, built with Astro and hosted on Cloudflare Pages |
+| [crump-tools](https://github.com/CrumpNet/crump-tools) | PowerShell scripts and configuration templates from the CrumpNet homelab |
 
 ## Contact
 
